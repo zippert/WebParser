@@ -1,0 +1,13 @@
+C:\Projects\Private\WebReader\WebReader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\Private\WebReader\WebReader\obj\x86\Debug\MainWindow.baml
+C:\Projects\Private\WebReader\WebReader\obj\x86\Debug\MainWindow.g.cs
+C:\Projects\Private\WebReader\WebReader\obj\x86\Debug\App.g.cs
+C:\Projects\Private\WebReader\WebReader\obj\x86\Debug\WebReader_MarkupCompile.cache
+C:\Projects\Private\WebReader\WebReader\obj\x86\Debug\WebReader.g.resources
+C:\Projects\Private\WebReader\WebReader\obj\x86\Debug\WebReader.Properties.Resources.resources
+C:\Projects\Private\WebReader\WebReader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects\Private\WebReader\WebReader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projects\Private\WebReader\WebReader\bin\Debug\WebReader.exe
+C:\Projects\Private\WebReader\WebReader\bin\Debug\WebReader.pdb
+C:\Projects\Private\WebReader\WebReader\obj\x86\Debug\WebReader.exe
+C:\Projects\Private\WebReader\WebReader\obj\x86\Debug\WebReader.pdb

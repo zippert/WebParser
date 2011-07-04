@@ -1,0 +1,114 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:App.xaml" caret="0" fromTop="0" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1121" fromTop="7" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml" caret="834" fromTop="9" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="1423" fromTop="45" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1945" fromTop="36" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1930" fromTop="26" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1930" fromTop="23" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1930" fromTop="22" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1499" fromTop="20" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1499" fromTop="18" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="2095" fromTop="35" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1859" fromTop="25" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="2225" fromTop="40" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:App.xaml" caret="0" fromTop="0" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="2280" fromTop="40" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml" caret="203" fromTop="3" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="431" fromTop="9" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="201" fromTop="2" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="775" fromTop="21" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="478" fromTop="16" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="333" fromTop="14" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1326" fromTop="40" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="841" fromTop="15" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1075" fromTop="24" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="972" fromTop="20" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1337" fromTop="35" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="624" fromTop="17" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1217" fromTop="7" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="838" fromTop="22" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml" caret="470" fromTop="6" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="1379" fromTop="42" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="1266" fromTop="38" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="1216" fromTop="36" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="1423" fromTop="45" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="prop" priority="0" />
+      <Item value="String`0" priority="2" />
+      <Item value="public" priority="1" />
+      <Item value="WebParser`0" priority="4" />
+      <Item value="string" priority="3" />
+      <Item value="private" priority="4" />
+      <Item value="this" priority="3" />
+      <Item value="Encoding`0" priority="4" />
+      <Item value="Enc" priority="0" />
+      <Item value="encoding" priority="2" />
+      <Item value="throw" priority="0" />
+      <Item value="ex" priority="0" />
+      <Item value="null" priority="5" />
+      <Item value="result" priority="4" />
+      <Item value="return" priority="0" />
+      <Item value="if" priority="2" />
+      <Item value="response" priority="1" />
+      <Item value="var" priority="2" />
+      <Item value="respStream" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="parser" priority="2" />
+      <Item value="Parser" priority="0" />
+      <Item value="else" priority="1" />
+      <Item value="new" priority="1" />
+      <Item value="WebParser" priority="1" />
+      <Item value="urlField" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="e" priority="1" />
+      <Item value="textBlock1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WebReader.WebParser">
+      <Item value="Url" priority="1" />
+      <Item value="Enc" priority="2" />
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="UTF8" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebResponse">
+      <Item value="GetResponseStream`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
