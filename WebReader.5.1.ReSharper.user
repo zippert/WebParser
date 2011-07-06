@@ -9,12 +9,11 @@
   <RecentFiles>
     <RecentFiles>
       <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:App.xaml" caret="0" fromTop="0" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="1361" fromTop="42" />
       <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1121" fromTop="7" />
-      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml" caret="834" fromTop="9" />
-      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="1423" fromTop="45" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml" caret="414" fromTop="6" />
     </RecentFiles>
     <RecentEdits>
-      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1945" fromTop="36" />
       <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1930" fromTop="26" />
       <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1930" fromTop="23" />
       <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1930" fromTop="22" />
@@ -39,11 +38,12 @@
       <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="624" fromTop="17" />
       <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:WebParser.cs" caret="1217" fromTop="7" />
       <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="838" fromTop="22" />
-      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml" caret="470" fromTop="6" />
-      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="1379" fromTop="42" />
-      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="1266" fromTop="38" />
       <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="1216" fromTop="36" />
       <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="1423" fromTop="45" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml" caret="229" fromTop="3" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="1361" fromTop="49" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml.cs" caret="1361" fromTop="42" />
+      <File id="1F1B40E9-6DC9-4B0E-9ED3-52031ACC1EDA/f:MainWindow.xaml" caret="414" fromTop="6" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -80,13 +80,13 @@
       <Item value="respStream" priority="0" />
       <Item value="using" priority="0" />
       <Item value="void" priority="0" />
-      <Item value="parser" priority="2" />
+      <Item value="parser" priority="3" />
       <Item value="Parser" priority="0" />
       <Item value="else" priority="1" />
       <Item value="new" priority="1" />
       <Item value="WebParser" priority="1" />
       <Item value="urlField" priority="1" />
-      <Item value="try" priority="0" />
+      <Item value="try" priority="1" />
       <Item value="e" priority="1" />
       <Item value="textBlock1" priority="0" />
     </ItemStatistics>
